@@ -1,1 +1,0 @@
-https://www.flysnow.org/2017/07/06/go-in-action-unsafe-pointer.html
